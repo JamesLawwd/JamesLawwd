@@ -36,4 +36,4 @@
 
 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mainazaquir&show_icons=true&locale=en&theme=chartreuse-dark" alt="mainazaquir" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=JamesLawwd&show_icons=true&locale=en&theme=chartreuse-dark" alt="JamesLawwd
